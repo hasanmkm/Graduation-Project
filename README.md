@@ -9,3 +9,4 @@ Steps to run the Project:
 - Run the main view named : Index.cshtml
 
 *Kindly note that not all functions will work properly due to Database connection
+and this is a small part of the whole project
