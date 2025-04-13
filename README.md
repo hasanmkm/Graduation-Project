@@ -1,7 +1,7 @@
 Welcome to my Graduation Project repository.
 Thank you for your time to explore my experience.
 
-Kindly download the zipped file that is named : "WebApplication1-master"
+Kindly click "Code" => "Download zip"
 
 Steps to run the Project:
 - Extract the file.
